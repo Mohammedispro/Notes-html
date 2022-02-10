@@ -1,0 +1,71 @@
+h1{
+    text-align: center;
+}
+body{
+    text-transform: capitalize;
+background-color: rgb(68, 230, 68);
+text-shadow:  1px 1px 1px rgb(255, 255, 255) ;
+text-align: center;
+color: black;
+border: 9px black solid;
+font-family: 'Permanent Marker', cursive;
+}
+a{
+color: white;
+text-align: center;
+text-decoration: none;
+text-shadow:  1px 1px 1px black ;
+background-color: red;
+border-style: solid;
+border: 3px solid black;
+border-color: black;
+position: relative;
+bottom: -12px
+;
+right: 6px;
+border: 6px black solid;
+}
+img{
+    height: 50px;
+    margin: auto;
+    width: 50px;
+}
+table{
+    border-style: solid;
+    border-color: red;
+    border: 3px red solid;
+    position: relative  ;left:250px
+
+}
+.xD{
+    position: relative;
+    bottom: -12
+px
+;
+    right: 6
+px
+;
+}
+.photo{
+    position: relative;
+    bottom: -12
+px
+;
+    right: 6
+px
+
+}
+.pro{
+    position: relative;
+    bottom: -1px;
+    right: 0px;
+}
+.like-this{
+    background-color: white;
+    width: 150px;
+    height: 150px;
+    margin:  20px auto;
+}
+hr{
+border: 3.3px red solid;
+}
